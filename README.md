@@ -29,6 +29,7 @@ Kalau dianalogikan, operating system dan komputer (beserta software di dalamnya)
 Ketika lampunya sudah menyala, kita jadi dapat melihat dengan lebih jelas, kan?
 
 #### tujuan ranah pendidikan yang terkait dengan teknologi informasi: istilah teknik informatika / informatics, ilmu komputer / computer science.
+
 Rumpun Ilmu Komputasi
 Keberadaan teknologi komputasi (computing) telah secara dramatis mempengaruhi kemajuan ilmu pengetahuan dan teknologi. Penerapan teknologi ini telah merambah ke berbagai sektor yang ada. Sektor pendidikan, kesehatan, sosial, pemerintahan, ekonomi, bisnis dan industri telah memanfaatkan kemajuan teknologi komputasi untuk berbagai kebutuhannya. Saat ini, kebutuhan masyarakat terhadap teknologi ini semakin hari semakin besar. Kebutuhan terhadap berbagai jenis perangkat seperti: personal computer (desktop, laptop, smartphone), aplikasi komputer, dan internet meningkat dengan drastis. Selain kebutuhan yang bersifat personal, pemanfaatan teknologi ini di dunia bisnis dan industri juga sangat besar. Berbagai jenis bisnis dan industri mulai dari skala kecil hingga skala besar telah memanfaatkan keberadaan teknologi ini. Dengan berbagai jenis penerapan dan sejumlah manfaatnya disertai dengan kebutuhannya yang sangat besar telah membuka peluang selebar-lebarnya bagi mereka yang ingin berkarir di bidang komputasi.
 
@@ -289,4 +290,92 @@ Puppy Linux adalah sistem operasi dan keluarga distribusi Linux ringan yang berf
 
 Mandriva
 
-Mandriva sebelumnya dikenal sebagai Mandrake. Mandriva terkenal karena perangkat lunaknya yang mutakhir, rangkaian administrasi yang sangat baik, dan edisi 64-bit. Dari awal hingga versi 8.0, Mandrake menamai produk utamanya dengan Linux Mandrake. Sedang versi 8.1 sampai 9.2 dinamai Mandrake Linux
+Mandriva sebelumnya dikenal sebagai Mandrake. Mandriva terkenal karena perangkat lunaknya yang mutakhir, rangkaian administrasi yang sangat baik, dan edisi 64-bit. 
+
+Dari awal hingga versi 8.0, Mandrake menamai produk utamanya dengan Linux Mandrake. Sedang versi 8.1 sampai 9.2 dinamai Mandrake Linux
+Graphical User Interface atau GUI? Lalu, apa yang dimaksud dengan Graphical User Interface (GUI)? Graphical User Interface (GUI) adalah seperangkat sistem yang digunakan untuk membuat Anda atau pengguna lain dapat berinteraksi dengan perangkat komputer yang digunakan. 
+
+Jika mendengar tentang Linux, sebagian besar orang pasti langsung mengacu pada sistem operasi yang kompleks dan hanya digunakan oleh programmer. Padahal Linux tidak semenyeramkan yang dikira selama ini.
+
+Linux adalah keluarga sistem operasi Unix yang open-source dan didasarkan pada Linux Kernel. Di dalam ‘keluarga’ ini juga termasuk sistem berbasis Linux populer seperti Ubuntu, Fedora, Mint, Debian, dan lain-lain. Sistem-sistem ini lebih tepatnya disebut sebagai distribusi atau distros.
+
+Sejak pertama kali dirilis pada tahun 1991, popularitas Linux terus meroket karena sifatnya yang open-source. User bebas memodifikasi Linux dan mendistribusikannya dengan memakai namanya sendiri. 
+
+Ketika mengoperasikan OS Linux, Anda harus menggunakan shell, yaitu interface yang menyediakan akses ke layanan sistem operasi. Sebagian besar distribusi Linux menggunakan antarmuka pengguna grafis (graphic user interface – GUI) sebagai shell-nya, terutama untuk memberikan kemudahan penggunaan bagi para user. 
+
+Dengan demikian, penggunaan command-line interface (CLI) sangat disarankan karena lebih powerful dan efektif. Task atau tugas yang membutuhkan proses dengan banyak langkah melalui GUI dapat dilakukan hanya dalam waktu sekian detik dengan mengetikkan command atau perintah ke CLI.
+
+Jadi, jika hendak menggunakan Linux, Anda wajib tahu perintah dasar Linux. Di artikel ini, Anda akan mempelajari 35 perintah Linux yang paling mendasar yang akan membantu Anda sebagai pengguna baru untuk menjelajahi Linux.
+
+Di Hostinger, kami menyediakan berbagai paket VPS Hosting untuk semua kebutuhan Anda. Mulai langganan dan nikmati performa website yang lebih cepat!
+VPS Indonesia Terbaik
+
+Perintah Dasar Linux
+Sebelum menjabarkan perintah dasar sistem operasi Linux, Anda harus membuka baris perintah (command line) terlebih dulu. Jika belum pernah menggunakan antarmuka baris perintah (command-line interface), silakan baca tutorial CLI ini.
+
+Meskipun langkah-langkah yang akan diikuti berbeda tergantung pada distribusi yang digunakan, baris perintah biasanya ada di bagian Utilities.
+
+Berikut daftar command dasar Linux:Jika mendengar tentang Linux, sebagian besar orang pasti langsung mengacu pada sistem operasi yang kompleks dan hanya digunakan oleh programmer. Padahal Linux tidak semenyeramkan yang dikira selama ini.
+
+Linux adalah keluarga sistem operasi Unix yang open-source dan didasarkan pada Linux Kernel. Di dalam ‘keluarga’ ini juga termasuk sistem berbasis Linux populer seperti Ubuntu, Fedora, Mint, Debian, dan lain-lain. Sistem-sistem ini lebih tepatnya disebut sebagai distribusi atau distros.
+
+Sejak pertama kali dirilis pada tahun 1991, popularitas Linux terus meroket karena sifatnya yang open-source. User bebas memodifikasi Linux dan mendistribusikannya dengan memakai namanya sendiri. 
+
+Ketika mengoperasikan OS Linux, Anda harus menggunakan shell, yaitu interface yang menyediakan akses ke layanan sistem operasi. Sebagian besar distribusi Linux menggunakan antarmuka pengguna grafis (graphic user interface – GUI) sebagai shell-nya, terutama untuk memberikan kemudahan penggunaan bagi para user. 
+
+Dengan demikian, penggunaan command-line interface (CLI) sangat disarankan karena lebih powerful dan efektif. Task atau tugas yang membutuhkan proses dengan banyak langkah melalui GUI dapat dilakukan hanya dalam waktu sekian detik dengan mengetikkan command atau perintah ke CLI.
+
+Jadi, jika hendak menggunakan Linux, Anda wajib tahu perintah dasar Linux. Di artikel ini, Anda akan mempelajari 35 perintah Linux yang paling mendasar yang akan membantu Anda sebagai pengguna baru untuk menjelajahi Linux.
+
+Di Hostinger, kami menyediakan berbagai paket VPS Hosting untuk semua kebutuhan Anda. Mulai langganan dan nikmati performa website yang lebih cepat!
+VPS Indonesia Terbaik
+
+Perintah Dasar Linux
+Sebelum menjabarkan perintah dasar sistem operasi Linux, Anda harus membuka baris perintah (command line) terlebih dulu. Jika belum pernah menggunakan antarmuka baris perintah (command-line interface), silakan baca tutorial CLI ini.
+
+Meskipun langkah-langkah yang akan diikuti berbeda tergantung pada distribusi yang digunakan, baris perintah biasanya ada di bagian Utilities.
+
+Berikut daftar command dasar Linux:Jika mendengar tentang Linux, sebagian besar orang pasti langsung mengacu pada sistem operasi yang kompleks dan hanya digunakan oleh programmer. Padahal Linux tidak semenyeramkan yang dikira selama ini.
+
+Linux adalah keluarga sistem operasi Unix yang open-source dan didasarkan pada Linux Kernel. Di dalam ‘keluarga’ ini juga termasuk sistem berbasis Linux populer seperti Ubuntu, Fedora, Mint, Debian, dan lain-lain. Sistem-sistem ini lebih tepatnya disebut sebagai distribusi atau distros.
+
+Sejak pertama kali dirilis pada tahun 1991, popularitas Linux terus meroket karena sifatnya yang open-source. User bebas memodifikasi Linux dan mendistribusikannya dengan memakai namanya sendiri. 
+
+Ketika mengoperasikan OS Linux, Anda harus menggunakan shell, yaitu interface yang menyediakan akses ke layanan sistem operasi. Sebagian besar distribusi Linux menggunakan antarmuka pengguna grafis (graphic user interface – GUI) sebagai shell-nya, terutama untuk memberikan kemudahan penggunaan bagi para user. 
+
+Dengan demikian, penggunaan command-line interface (CLI) sangat disarankan karena lebih powerful dan efektif. Task atau tugas yang membutuhkan proses dengan banyak langkah melalui GUI dapat dilakukan hanya dalam waktu sekian detik dengan mengetikkan command atau perintah ke CLI.
+
+Jadi, jika hendak menggunakan Linux, Anda wajib tahu perintah dasar Linux. Di artikel ini, Anda akan mempelajari 35 perintah Linux yang paling mendasar yang akan membantu Anda sebagai pengguna baru untuk menjelajahi Linux.
+
+Di Hostinger, kami menyediakan berbagai paket VPS Hosting untuk semua kebutuhan Anda. Mulai langganan dan nikmati performa website yang lebih cepat!
+VPS Indonesia Terbaik
+
+Perintah Dasar Linux
+Sebelum menjabarkan perintah dasar sistem operasi Linux, Anda harus membuka baris perintah (command line) terlebih dulu. Jika belum pernah menggunakan antarmuka baris perintah (command-line interface), silakan baca tutorial CLI ini.
+
+Meskipun langkah-langkah yang akan diikuti berbeda tergantung pada distribusi yang digunakan, baris perintah biasanya ada di bagian Utilities.
+
+Berikut daftar command dasar Linux:
+Jika mendengar tentang Linux, sebagian besar orang pasti langsung mengacu pada sistem operasi yang kompleks dan hanya digunakan oleh programmer. Padahal Linux tidak semenyeramkan yang dikira selama ini.
+
+Linux adalah keluarga sistem operasi Unix yang open-source dan didasarkan pada Linux Kernel. Di dalam ‘keluarga’ ini juga termasuk sistem berbasis Linux populer seperti Ubuntu, Fedora, Mint, Debian, dan lain-lain. Sistem-sistem ini lebih tepatnya disebut sebagai distribusi atau distros.
+
+Sejak pertama kali dirilis pada tahun 1991, popularitas Linux terus meroket karena sifatnya yang open-source. User bebas memodifikasi Linux dan mendistribusikannya dengan memakai namanya sendiri. 
+
+Ketika mengoperasikan OS Linux, Anda harus menggunakan shell, yaitu interface yang menyediakan akses ke layanan sistem operasi. Sebagian besar distribusi Linux menggunakan antarmuka pengguna grafis (graphic user interface – GUI) sebagai shell-nya, terutama untuk memberikan kemudahan penggunaan bagi para user. 
+
+Dengan demikian, penggunaan command-line interface (CLI) sangat disarankan karena lebih powerful dan efektif. Task atau tugas yang membutuhkan proses dengan banyak langkah melalui GUI dapat dilakukan hanya dalam waktu sekian detik dengan mengetikkan command atau perintah ke CLI.
+
+Jadi, jika hendak menggunakan Linux, Anda wajib tahu perintah dasar Linux. Di artikel ini, Anda akan mempelajari 35 perintah Linux yang paling mendasar yang akan membantu Anda sebagai pengguna baru untuk menjelajahi Linux.
+
+Di Hostinger, kami menyediakan berbagai paket VPS Hosting untuk semua kebutuhan Anda. Mulai langganan dan nikmati performa website yang lebih cepat!
+VPS Indonesia Terbaik
+
+Perintah Dasar Linux
+Sebelum menjabarkan perintah dasar sistem operasi Linux, Anda harus membuka baris perintah (command line) terlebih dulu. Jika belum pernah menggunakan antarmuka baris perintah (command-line interface), silakan baca tutorial CLI ini.
+
+Meskipun langkah-langkah yang akan diikuti berbeda tergantung pada distribusi yang digunakan, baris perintah biasanya ada di bagian Utilities.
+
+Berikut daftar command dasar Linux:
+
+ 

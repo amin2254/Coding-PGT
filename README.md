@@ -137,3 +137,58 @@ echo Halo dunia # mencetak teks Halo dunia</pre>
  <pre>&#8220;#!/bin/bash&#8221; atau &#8220;#!/bin/sh&#8221;.</pre>
  
  Baris kedua dimulai dengan simbol khusus, #. Ini menandakan baris tersebut sebagai suatu komentar. Shell akan mengabaikannya, tidak memroses komentar tersebut. Satu-satunya pengecualian adalah simbol #! yang diletakkan di baris pertama dari file skrip &#8211; seperti pada contoh di atas..Ini adalah direktif khusus. Jika anda terbiasa dengan Perl, tentu telah menjumpai adanya #!/usr/bin/perl pada baris pertama setiap skrip Perl untuk memberitahukan shell interaktif bahwa program tersebut akan dieksekusi oleh Perl.
+
+ Pada pemrograman shell Bash adalah #!/bin/sh. Baris ketiga menjalankan suatu perintah echo dengan dua parameter atau argumen &#8211; pertama adalah "Halo" dan kedua adalah "dunia". Perintah echo akan secara otomatis meletakkan spasi tunggal di antara parameter-parameternya. Simbol # menandakan komentar.. Karakter # dan apapun yang mengikutinya, pada baris yang sama, diabaikan oleh shell. Sekarang jalankan chmod 755 pertama.sh atau (chmod +x pertama.sh) untuk membuat file teks executable dan jalankan skrip dengan ./pertama.sh. Pada jendela shell (terminal) terlihat sebagai berikut:
+ 
+ <pre>$ chmod 755 pertama.sh
+$ ./pertama.sh
+Halo dunia</pre>
+ 
+ <h3>Perintah echo</h3><p>Apakah hanya untuk menampilkan dua kata tersebut kita harus menulis skrip? TIDAK. Anda dapat menggunakan shell interaktif untuk memperoleh hasil yang sama. Tuliskan langsung perintah echo Halo dunia di shell dan perhatikan luarannya:</p>
+ 
+ <pre>$ echo Halo dunia
+Halo dunia</pre>
+ 
+ Sekarang buat sedikit perubahan. Pertama, ingat bahwa echo meletakkan SATU spasi antara parameter-parameternya. Tempatkan beberapa spasi antara teks "Halo" dan "dunia". Hasil seperti apa yang diharapkan? Bagaimana jika anda meletakkan karakter TAB di antaran dua kata tersebut?</p><p>Bagaimana luaran dari perubahan tersebut? Output skrip sama persis dengan sebelumnya. Kita memanggil program echo dengan dua argumen; echo tidak menghiraukan berapa pun jumlah spasi di antaranya. Sekarang, coba ubah lagi skrip tersebut menjadi:  
+ 
+<pre>#!/bin/sh
+# Ini baris komentar!
+echo "Halo dunia" # Ini juga komentar</pre>
+ 
+Kali ini spasi yang ditambahkan tampil sebagai output. Mengapa? Karena echo dipanggil dengan hanya SATU argumen yang diapit oleh petik ganda &#8220;Halo dunia&#8221;. Tampilan di layar tepat sama dengan yang dituliskan dalam skrip. Perlu dipahami bahwa shell mem-parse argumen SEBELUM melewatkannya ke program yang dipanggil. Shell menghilangkan tanda petik dan melewatkan string tersebut sebagai satu argumen. Contoh kedua, masih berkaitan dengan perintah echo. Tulis skrip berikut. Perkirakan luarannya sebelum menjalankannya: 
+
+<pre>#!/bin/sh
+# Nama file skrip: kedua.sh
+# Apa yang dihasilkan skrip ini?
+echo "Halo dunia " # mencetak teks Halo dunia
+echo "Halo dunia "
+echo "Halo * dunia "
+echo Halo * dunia
+echo Halo dunia
+echo "Halo" dunia
+echo Halo " " dunia
+echo "Halo \"*\" dunia "
+echo `halo` dunia
+echo 'hello' dunia</pre>
+
+##### Pengertian Operating System
+
+![image](https://user-images.githubusercontent.com/111222097/184544816-4d009849-9604-445e-8bf0-6cee979e1a7d.png)
+
+Sistem operasi atau<a href="https://www.temukanpengertian.com/2013/01/pengertian-operating-system.html" rel="nonfollow"> operating system</a> adalah salah satu software atau perangkat lunak yang tugasnya bertanggung jawab mengatur dan mengontrol kerja<a href="https://www.temukanpengertian.com/2013/01/pengertian-hardware.html" rel="nonfollow"> hardware atau perangkat keras</a> serta menjalankan<a href="https://www.temukanpengertian.com/2013/01/pengertian-software_11.html" rel="nonfollow"> software</a> atau aplikasi di dalam sebuah sistem komputer. Dengan kata lain, sistem operasi merupakan sistem yang mengendalikan operasi dasar serta memastikan sistem dalam komputer bisa berjalan dan berfungsi sebagaimana semestinya. Karena sistem operasi dapat memungkinkan suatu aplikasi bisa berfungsi, maka sistem operasi disebut sebagai essential component. Komputer dan sistemnya hanya bisa berfungsi karena adanya sistem operasi kecuali apabila komputer sedang dalam keadaan booting.
+
+Cara kerja operating system adalah sebagai berikut:
+
+![image](https://user-images.githubusercontent.com/111222097/184544858-c115aee7-17c3-4fe3-b0ad-0d42df7317cf.png)
+
+Fungsi operating system adalah sebagai berikut ini:
+
+1. Untuk menjalankan operasi dasar pada komputer.
+2. Untuk mengatur kerja hardware dan juga software.
+3. Untuk menyajikan tampilan.
+4. Sebagai wadah aplikasi atau program.
+5. Untuk mengkoordinasi kerja perangkat komputer.
+6. Untuk mengawasi dan melindungi jalannya suatu fungsi program.
+7. Untuk mengoptimalkan fungsi perangkat komputer.
+
+Contoh operating system adalah PC- DOS (Personal Computer Disk Operating System), MS- DOS (Microsoft Disk Operating System), Microsoft Windows (Windows 3.0, Windows 3.1, Windows 95, Windows 98, Windows 2000, Windows ME, Windows Vista, Windows Xp, Windows 7 dan Windows 8), Linux, Unix, MAC OS (Macintosh Operating Sistem), IBM OS/2, Free BSD, Chrome OS, Solaris dan lain-lain.

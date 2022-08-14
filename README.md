@@ -9,7 +9,7 @@ Dilansir dari <a href="https://grasshopper.app/why-coding/" rel="nonfollow">gras
 
 Dengan belajar menulis kode, kamu dapat memberitahu komputer apa yang harus dilakukan atau bagaimana cara melakukan sesuatu dengan lebih cepat. Kamu dapat menggunakan kemampuan coding ini untuk membuat situs web dan aplikasi, memproses data, dan melakukan banyak hal keren lainnya.
 
-##### manfaat belajar coding
+#### manfaat belajar coding
 
 Mempelajari coding memberikan banyak manfaat terutama untuk kamu yang ingin atau sedang berkarier di bidang teknologi. Namun, tak terbatas di situ saja, mempelajari coding karena hobi atau sekedar ingin memahami teknologi juga bisa mendatangkan manfaat. Berikut ini adalah beberapa manfaat yang bisa kamu peroleh dari belajar coding:
 
@@ -19,7 +19,7 @@ Mempelajari coding memberikan banyak manfaat terutama untuk kamu yang ingin atau
 4. Meningkatkan Kemampuan Komunikasi
 5. Mendorong Kegigihan Anak
 
-##### Apa Itu Sistem Operasi?
+#### Apa Itu Sistem Operasi?
 
 Menurut <a href="https://www.computerhope.com/jargon/o/os.htm" rel="nonfollow">ComputerHope </a>, sistem operasi adalah software yang dipasangkan pada hard drive sebuah komputer, sehingga hardware dapat “berkomunikasi” dan bekerja dengan software di dalam perangkat tersebut.
 
@@ -54,6 +54,7 @@ Nah, sama saja halnya dengan sistem operasi. Tanpanya, kamu tidak akan bisa meng
 #### Kemampuan Teknis Dasar 1: Sistem Operasi
 
 ##### Apa itu UI
+
 User Interface adalah tampilan visual sebuah produk yang menjembatani sistem dengan pengguna (user). Tampilan UI dapat berupa bentuk, warna, dan tulisan yang didesain semenarik mungkin. Secara sederhana, UI adalah bagaimana tampilan sebuah produk dilihat oleh pengguna. 
 
 Analoginya bisa dijelaskan seperti ini. Misalnya Anda mengunjungi sebuah rumah, Anda pasti akan melihat tampilan rumah tersebut, bukan? Anda bisa melihat halaman depan rumah, letak pintu utama, dan jendela. 
@@ -70,7 +71,9 @@ Tidak hanya UI pada aplikasi, tampilan UI pada sebuah halaman website harus mena
 
 
 Tidak hanya harus menarik, tampilan UI juga harus disesuaikan dengan berbagai perangkat agar pengguna mudah dan nyaman menggunakan websitenya. Jika Anda ingin membuat desain tampilan web.
+
 ##### Pentingnya UI bagi Sebuah Produk
+
 Setelah memahami apa itu user interface atau UI, mari kembali ke analogi ‘rumah’ untuk mengetahui pentingnya desain UI yang baik. 
 
 Jika sebuah rumah dirancang sedemikian indah, pengunjung rumah tersebut tentu akan terkesan dengan tampilan rumah Anda. Sebaliknya, rumah yang tampak berantakan bisa membuat pengunjung ingin segera meninggalkan tempat tersebut.  
@@ -81,7 +84,8 @@ Begitu pula dengan aplikasi, website, ataupun blog yang tidak memiliki user inte
 2. Meningkatkan Penjualan dan Pertumbuhan Bisnis
 3. Meningkatkan Kualitas Branding
 
-#### Apa Itu Sistem Operasi Shell
+##### Apa Itu Sistem Operasi Shell
+
 Dalam <a href="https://id.wikipedia.org/wiki/Komputer" rel="nonfollow">  komputer</a>, syel atau shell adalah program khusus yang menyediakan komunikasi langsung antara pengguna dan sistem operasi (terutama <a href="https://id.wikipedia.org/wiki/Kernel" rel="nonfollow"> kernel<a/>).[1][2] Syel aslinya adalah istilah teknis untuk <a href="https://id.wikipedia.org/wiki/Antarmuka_baris_perintah" rel="nonfollow"> baris perintah</a> 
 
 ![image](https://user-images.githubusercontent.com/111222097/184533744-15ab7c98-7b92-4a13-9580-49134b58cebd.png)
@@ -105,7 +109,7 @@ Syel grafis
 Unity yang menampilkan pintasan kibor
 Syel grafis menggunakan antarmuka pengguna grafis untuk mengakses layanan sistem operasi.[8] Di Linux, syel grafis biasanya dibangun dari beberapa lapisan perangkat lunak, mulai dari penanganan pintasan kibor, manajemen memori untuk menampilkan respons oleh driver, dan aplikasi yang menampilkan haslinya.
 
-#### Apa itu Sistem Operasi Utilities
+ ##### Apa itu Sistem Operasi Utilities
 
 Perangkat lunak utilitas merupakan perangkat lunak komputer yang dirancang untuk membantu proses <a href="https://id.wikipedia.org/w/index.php?title=Pembicaraan:Perangkat_lunak_utilitas&action=edit&redlink=1" rel="nonfollow"> analisis</a>, <a href="https://id.wikipedia.org/w/index.php?title=Pembicaraan:Perangkat_lunak_utilitas&action=edit&redlink=1" rel="nonfollow"> konfigurasi</a>, optimasi, dan membantu pengelolaan sebuah komputer ataupun sistem. Perangkat lunak utilitas harus dibedakan dengan perangkat lunak aplikasi yang memungkinkan pengguna melakukan berbagai hal dengan komputer seperti mengetik, melakukan permainan, merancang gambar, dan lain-lain. Perangkat lunak utilitas lebih memfokuskan penggunaannya pada pengoptimasian fungsi dari infrastruktur yang terdapat dalam sebuah komputer. Karena fungsinya, perangkat lunak utilitas umumnya tidak ditujukan untuk pengguna secara umum, melainkan ditujukan untuk pengguna yang memiliki pemahaman atas cara kerja sistem komputer yang cukup baik.
 
@@ -116,3 +120,20 @@ Pencadangan (Backup), utilitas untuk melakukan pencadangan data yang ditujukan u
 Pemulihan Data (Data Restore), utilitas pemulihan data digunakan untuk mengembalikan data yang secara fisik telah rusak (corrupt) atau berubah. Data dapat dirusak oleh virus, perangkat lunak yang buruk, kegagalan perangkat keras, dan fluktuasi daya listrik yang terjadi ketika data sedang ditulisi/diubah.
 Antivirus, perangkat lunak antivirus memindai semua cakram (disk) dan memori untuk mendeteksi kehadiran virus, dan mengisolasinya untuk mencegah kerusakan lebih lanjut.
 Pemampatan Data (Data Compression), utilitas kompresi berfungsi untuk memperkecil ukuran sebuah dokumen sehingga dapat menghemat pemanfaatan ruang penyimpanan, serta mempermudah pendistribusian.
+
+ ##### Apa itu Sistem Shell Script
+ 
+ ![image](https://user-images.githubusercontent.com/111222097/184543575-185ebcb6-f70b-45a1-98d9-5f50183dfcc7.png)
+
+ Pada bagian ini anda akan belajar menuliskan sebuah skrip yang sekedar menampilkan pesan "Halo dunia". Gunakan Text Editor dan buat file teks bernama pertama.sh seperti di bawah ini:
+ 
+ <pre>#!/bin/bash
+# Nama file skrip: pertama.sh
+# Skrip ini menampilkan teks menggunakan perintah echo
+echo Halo dunia # mencetak teks Halo dunia</pre>
+ 
+ Baris pertama memberitahukan sistem Linux bahwa file akan dieksekusi oleh program bernama /bin/bash. Ini merupakan lokasi standard dari Bash shell script pada Linux. Shell script adalah sejumlah baris kode untuk menjalankan suatu aksi atau perintah tertentu pada shell Linux.Pada beberapa distribusi Linux, ada perintah /bin/sh yang merupakan link simbolik ke bash.Baris pertama dari setiap skrip harus dan hanya mencantumkan
+ 
+ <pre>&#8220;#!/bin/bash&#8221; atau &#8220;#!/bin/sh&#8221;.</pre>
+ 
+ Baris kedua dimulai dengan simbol khusus, #. Ini menandakan baris tersebut sebagai suatu komentar. Shell akan mengabaikannya, tidak memroses komentar tersebut. Satu-satunya pengecualian adalah simbol #! yang diletakkan di baris pertama dari file skrip &#8211; seperti pada contoh di atas..Ini adalah direktif khusus. Jika anda terbiasa dengan Perl, tentu telah menjumpai adanya #!/usr/bin/perl pada baris pertama setiap skrip Perl untuk memberitahukan shell interaktif bahwa program tersebut akan dieksekusi oleh Perl.

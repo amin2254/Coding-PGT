@@ -28,6 +28,8 @@ Kalau dianalogikan, operating system dan komputer (beserta software di dalamnya)
 
 Ketika lampunya sudah menyala, kita jadi dapat melihat dengan lebih jelas, kan?
 
+
+
 #### tujuan ranah pendidikan yang terkait dengan teknologi informasi: istilah teknik informatika / informatics, ilmu komputer / computer science.
 
 Rumpun Ilmu Komputasi
